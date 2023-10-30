@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/ecj-4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Documents/apache-tomcat-9.0.78/apache-tomcat-9.0.78/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/eclipse-workspace/FactoryBackend/src/main/webapp/WEB-INF/lib/javax.ws.rs-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/JEDIS SMECE/commons-pool2-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/JEDIS SMECE/jedis-4.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/slf4j-simple-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/slf4j-api-2.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/dodatnijarovi/jackson-annotations-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/dodatnijarovi/jackson-core-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/dodatnijarovi/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Milos/Downloads/gson/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

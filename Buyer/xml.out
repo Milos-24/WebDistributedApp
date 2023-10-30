@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.2.1" class="java.beans.XMLDecoder">
+ <string>Product{name=&apos;Milky Way&apos;, id=7, volume=5, description=&apos;Creamy nougat and caramel coated in milk chocolate.&apos;} Email address:aa@aa.com</string>
+</java>

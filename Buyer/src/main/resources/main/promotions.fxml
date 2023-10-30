@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.AmbientLight?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="597.0" prefWidth="946.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.PromotionsController">
+    <children>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#e9e0e8" height="568.0" layoutX="9.0" layoutY="16.0" stroke="BLACK" strokeType="INSIDE" width="188.0" />
+        <AmbientLight color="CHARTREUSE" lightOn="true" />
+        <AmbientLight color="CHARTREUSE" layoutX="676.0" layoutY="346.0" lightOn="true" />
+        <Button layoutX="18.0" layoutY="31.0" mnemonicParsing="false" onAction="#newOrderClick" prefHeight="25.0" prefWidth="171.0" style="-fx-background-color: purple;" text="Products" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Button>
+        <Button layoutX="18.0" layoutY="540.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="171.0" style="-fx-background-color: Purple;" text="Log Out" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Button>
+        <Button layoutX="17.0" layoutY="84.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="171.0" style="-fx-background-color: grey;" text="Promotions" textFill="WHITE">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </Button>
+      <TextArea fx:id="promotionsTextArea" layoutX="219.0" layoutY="17.0" prefHeight="555.0" prefWidth="709.0" />
+    </children>
+</AnchorPane>
